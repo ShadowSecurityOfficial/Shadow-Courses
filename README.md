@@ -1,4 +1,4 @@
-# Shadow-News
+# Shadow-Courses
 
 Shadow-Courses is our very own FOSS (Free and Open Source) course on how to get into Cybersecurity and Computer Science made by Cybersecurity Instructor and Founder of ShadowSecurity CY83R-3X71NC710N. Shadow-Courses is a FOSS course and is part of the larger ShadowSecuritySuite, Shadow-Courses allows you to get all the information you need to get started in Cybersecurity and Computer Science allowing you to become a master penetration tester.
 
