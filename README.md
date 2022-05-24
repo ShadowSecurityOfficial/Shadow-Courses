@@ -8,9 +8,9 @@ Shadow-Courses is our very own FOSS (Free and Open Source) course on how to get 
 
 💖 Made possible thanks to these projects 💖
 
-```[
+```
 https://www.youtube.com/
-\https://sourceforge.net/
+https://sourceforge.net/
 https://www.httrack.com/
 https://archive.org/
 https://www.gitkraken.com/
