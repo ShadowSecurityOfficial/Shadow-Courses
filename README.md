@@ -10,9 +10,6 @@ Shadow-Courses is our very own FOSS (Free and Open Source) course on how to get 
 
 ```
 https://www.youtube.com/
-https://sourceforge.net/
-https://www.httrack.com/
-https://archive.org/
 https://www.gitkraken.com/
 ```
 # Requesting a feature
