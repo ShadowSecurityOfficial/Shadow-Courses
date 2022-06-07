@@ -10,6 +10,7 @@ Shadow-Courses is our very own FOSS (Free and Open Source) course on how to get 
 
 ```
 https://www.youtube.com/
+https://www.techsmith.com/video-editor.html
 https://panzoid.com/
 https://www.animaze.us/
 https://www.voicemod.net/
