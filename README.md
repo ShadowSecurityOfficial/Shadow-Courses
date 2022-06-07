@@ -17,6 +17,7 @@ https://skylum.com/luminar-ai
 https://panzoid.com/
 https://www.animaze.us/
 https://www.voicemod.net/
+https://www.office.com/
 https://www.gitkraken.com/
 ```
 # Requesting a feature
