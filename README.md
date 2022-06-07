@@ -10,6 +10,9 @@ Shadow-Courses is our very own FOSS (Free and Open Source) course on how to get 
 
 ```
 https://www.youtube.com/
+https://panzoid.com/
+https://www.animaze.us/
+https://www.voicemod.net/
 https://www.gitkraken.com/
 ```
 # Requesting a feature
